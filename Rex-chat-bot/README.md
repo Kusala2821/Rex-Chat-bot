@@ -24,11 +24,6 @@ Test the Firebase Functions endpoint with Postman to ensure successful message a
 <img width="1677" alt="Success Request" src="https://github.com/user-attachments/assets/0302a3cb-8ef8-4ac9-bf38-b1f092894600">
 <img width="1677" alt="Bad Request" src="https://github.com/user-attachments/assets/c1858f14-4424-4a96-ade2-73a40a45ac48">
 
-# PITCH Presentation:
-https://app.pitch.com/app/presentation/9a40aee1-9a96-43f4-bd57-28a99b40cc28/0c652e27-7b1a-4bd2-8968-3da655c21de0
-
-#Loom Video
-https://www.loom.com/share/0e90e2fa5292450bab9913dd95b014c9?sid=fc002c1e-eb98-4c06-8a99-62d7a4eec597
 
 
 
